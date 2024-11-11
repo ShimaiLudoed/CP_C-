@@ -1,0 +1,15 @@
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\bin\Debug\net7.0\CP3.exe
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\bin\Debug\net7.0\CP3.deps.json
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\bin\Debug\net7.0\CP3.runtimeconfig.json
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\bin\Debug\net7.0\CP3.dll
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\bin\Debug\net7.0\CP3.pdb
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.csproj.AssemblyReference.cache
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.AssemblyInfoInputs.cache
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.AssemblyInfo.cs
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.csproj.CoreCompileInputs.cache
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.dll
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\refint\CP3.dll
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.pdb
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\CP3.genruntimeconfig.cache
+C:\Users\Athlon\Documents\GitHub\CP_C-\HomeWork\CP3\obj\Debug\net7.0\ref\CP3.dll
