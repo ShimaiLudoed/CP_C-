@@ -1,0 +1,15 @@
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.csproj.AssemblyReference.cache
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.AssemblyInfo.cs
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\bin\Debug\net7.0\Rpg.exe
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\bin\Debug\net7.0\Rpg.deps.json
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\bin\Debug\net7.0\Rpg.runtimeconfig.json
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\bin\Debug\net7.0\Rpg.dll
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\bin\Debug\net7.0\Rpg.pdb
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.dll
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\refint\Rpg.dll
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.pdb
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\Rpg.genruntimeconfig.cache
+C:\Users\Athlon\RiderProjects\Rpg\Rpg\obj\Debug\net7.0\ref\Rpg.dll
